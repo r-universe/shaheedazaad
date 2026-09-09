@@ -1,7 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/shaheedazaad/shaheedazaad.r-universe.dev
 	branch = HEAD
 [submodule "anovapowersim"]
 	path = anovapowersim
 	url = https://github.com/shaheedazaad/anovapowersim
+	branch = *release
