@@ -5,4 +5,4 @@
 [submodule "anovapowersim"]
 	path = anovapowersim
 	url = https://github.com/shaheedazaad/anovapowersim
-	branch = *release
+	branch = v1.2.0
