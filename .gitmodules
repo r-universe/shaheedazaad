@@ -9,4 +9,4 @@
 [submodule "forestmap"]
 	path = forestmap
 	url = https://github.com/shaheedazaad/forestmap
-	branch = *release
+	branch = v0.1.0
