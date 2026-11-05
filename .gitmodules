@@ -6,3 +6,7 @@
 	path = anovapowersim
 	url = https://github.com/shaheedazaad/anovapowersim
 	branch = v1.2.0
+[submodule "forestmap"]
+	path = forestmap
+	url = https://github.com/shaheedazaad/forestmap
+	branch = *release

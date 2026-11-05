@@ -2,5 +2,9 @@
   {
     "package": "anovapowersim",
     "releasetag": true
+  },
+  {
+    "package": "forestmap",
+    "releasetag": true
   }
 ]
